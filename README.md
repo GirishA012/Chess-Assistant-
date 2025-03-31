@@ -1,7 +1,7 @@
 # Chess Assistant ♟️
 
 ## Project Overview
-**Chess Assistant** is an AI-powered chess bot that allows users to play against a model trained on their own **Chess.com match history**. The system retrieves past game data, processes it into vector embeddings using **FAISS**, and implements a **RAG (Retrieval-Augmented Generation) pipeline**. The core AI engine is powered by **Groq’s Qwen LLM**, enabling strategic chess play based on the user's historical performance.
+**Chess Assistant** is an **AI-powered** chess bot that allows users to play against a model trained on their anyone's **Chess.com match history**. The system retrieves past game data, processes it into vector embeddings using **FAISS**, and implements a **RAG (Retrieval-Augmented Generation) pipeline**. The core AI engine is powered by **Groq’s Qwen LLM**, enabling strategic chess play based on the user's historical performance.
 
 ---
 
